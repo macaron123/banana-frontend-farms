@@ -1828,9 +1828,9 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@pancakeswap-libs/uikit@goosedefi/goose-uikit":
+"@pancakeswap-libs/uikit@macaron123/banana-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/goosedefi/goose-uikit/tar.gz/068e017bb0f927c566a43596fb555a5818e13154"
+  resolved "https://codeload.github.com/macaron123/banana-uikit/tar.gz/b353e7c85274d0650eb7d512d905d0a25bbfba4a"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
